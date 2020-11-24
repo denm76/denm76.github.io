@@ -12,3 +12,5 @@
 [Пиксельная верстка](https://denm76.github.io/PerfectPixel)
 
 [Псевдоклассы](https://denm76.github.io/hover)
+
+[Слайдер](https://denm76.github.io/slider)
