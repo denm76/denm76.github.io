@@ -14,3 +14,5 @@
 [Псевдоклассы](https://denm76.github.io/hover)
 
 [Слайдер](https://denm76.github.io/slider)
+
+[Модальное окно](https://denm76.github.io/modalwindow)
