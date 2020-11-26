@@ -16,3 +16,5 @@
 [Слайдер](https://denm76.github.io/slider)
 
 [Модальное окно](https://denm76.github.io/modalwindow)
+
+[Аккордеон](https://denm76.github.io/accordeon)
